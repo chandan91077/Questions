@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/chandan91077/Qestions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/chandan91077/Qestions/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/chandan91077/Qestions/tree/master/0287-find-the-duplicate-number) |
+| [0567-permutation-in-string](https://github.com/chandan91077/Qestions/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/chandan91077/Qestions/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/chandan91077/Qestions/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/chandan91077/Qestions/tree/master/0567-permutation-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/chandan91077/Qestions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/chandan91077/Qestions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/chandan91077/Qestions/tree/master/0242-valid-anagram) |
+| [0567-permutation-in-string](https://github.com/chandan91077/Qestions/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -45,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/chandan91077/Qestions/tree/master/0176-second-highest-salary) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/chandan91077/Qestions/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
