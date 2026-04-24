@@ -3,31 +3,32 @@ class Solution {
         if(s1.length()>s2.length()){
             return false;
         }
-        int[]a=new int[26];
-        int []b=new int[26];
+        int[]l1=new int[26];
+        int[]l2=new int[26];
         for(int i=0;i<s1.length();i++){
-            a[s1.charAt(i)-'a']++;
-            b[s2.charAt(i)-'a']++;
+            l1[s1.charAt(i)-'a']++; 
+            l2[s2.charAt(i)-'a']++; 
         }
-        if(count(a,b)){
+        if(match(l1,l2)){
             return true;
         }
         for(int i=s1.length();i<s2.length();i++){
-            b[s2.charAt(i)-'a']++;
-            b[s2.charAt(i-s1.length())-'a']--;
-            if(count(a,b)){
+            l2[s2.charAt(i)-'a']++;
+            l2[s2.charAt(i-s1.length())-'a']--;
+            if(match(l1,l2)){
                 return true;
             }
         }
         return false;
+
     }
-    public boolean count(int[]a,int []b){
+    private boolean match(int a[],int b[]){
         for(int i=0;i<26;i++){
             if(a[i]!=b[i]){
                 return false;
             }
-           
+
         }
-         return true;
+        return true;
     }
 }
