@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/chandan91077/Qestions/tree/master/0031-next-permutation) |
 | [0239-sliding-window-maximum](https://github.com/chandan91077/Qestions/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/chandan91077/Qestions/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/chandan91077/Qestions/tree/master/0560-subarray-sum-equals-k) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/chandan91077/Qestions/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/chandan91077/Qestions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/chandan91077/Qestions/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/chandan91077/Qestions/tree/master/0287-find-the-duplicate-number) |
