@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/chandan91077/Qestions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/chandan91077/Qestions/tree/master/0031-next-permutation) |
 | [0239-sliding-window-maximum](https://github.com/chandan91077/Qestions/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/chandan91077/Qestions/tree/master/0287-find-the-duplicate-number) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/chandan91077/Qestions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/chandan91077/Qestions/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/chandan91077/Qestions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/chandan91077/Qestions/tree/master/0151-reverse-words-in-a-string) |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/chandan91077/Qestions/tree/master/2965-find-missing-and-repeated-values) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/chandan91077/Qestions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
