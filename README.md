@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/chandan91077/Qestions/tree/master/0912-sort-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/chandan91077/Qestions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2965-find-missing-and-repeated-values](https://github.com/chandan91077/Qestions/tree/master/2965-find-missing-and-repeated-values) |
+| [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/chandan91077/Qestions/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 ## Two Pointers
 |  |
 | ------- |
