@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/chandan91077/Qestions/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/chandan91077/Qestions/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/chandan91077/Qestions/tree/master/0204-count-primes) |
 | [2965-find-missing-and-repeated-values](https://github.com/chandan91077/Qestions/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
@@ -159,4 +160,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/chandan91077/Qestions/tree/master/0204-count-primes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/chandan91077/Qestions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/chandan91077/Qestions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
