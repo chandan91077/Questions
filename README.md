@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/chandan91077/Qestions/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/chandan91077/Qestions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/chandan91077/Qestions/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/chandan91077/Qestions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/chandan91077/Qestions/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/chandan91077/Qestions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/chandan91077/Qestions/tree/master/0567-permutation-in-string) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chandan91077/Qestions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0202-happy-number](https://github.com/chandan91077/Qestions/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/chandan91077/Qestions/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/chandan91077/Qestions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/chandan91077/Qestions/tree/master/0567-permutation-in-string) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/chandan91077/Qestions/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/chandan91077/Qestions/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/chandan91077/Qestions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/chandan91077/Qestions/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/chandan91077/Qestions/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/chandan91077/Qestions/tree/master/2965-find-missing-and-repeated-values) |
