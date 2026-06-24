@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/chandan91077/Qestions/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/chandan91077/Qestions/tree/master/0204-count-primes) |
 | [2965-find-missing-and-repeated-values](https://github.com/chandan91077/Qestions/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
