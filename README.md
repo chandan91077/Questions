@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/chandan91077/Qestions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/chandan91077/Qestions/tree/master/0031-next-permutation) |
+| [0204-count-primes](https://github.com/chandan91077/Qestions/tree/master/0204-count-primes) |
 | [0239-sliding-window-maximum](https://github.com/chandan91077/Qestions/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/chandan91077/Qestions/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/chandan91077/Qestions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/chandan91077/Qestions/tree/master/0204-count-primes) |
 | [2965-find-missing-and-repeated-values](https://github.com/chandan91077/Qestions/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -148,4 +150,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/chandan91077/Qestions/tree/master/0011-container-with-most-water) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/chandan91077/Qestions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/chandan91077/Qestions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
