@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/chandan91077/Qestions/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/chandan91077/Qestions/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/chandan91077/Qestions/tree/master/0204-count-primes) |
+| [0509-fibonacci-number](https://github.com/chandan91077/Qestions/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/chandan91077/Qestions/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -164,8 +165,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/chandan91077/Qestions/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/chandan91077/Qestions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/chandan91077/Qestions/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/chandan91077/Qestions/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/chandan91077/Qestions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
