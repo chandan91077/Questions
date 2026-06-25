@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/chandan91077/Qestions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/chandan91077/Qestions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/chandan91077/Qestions/tree/master/0912-sort-an-array) |
+| [1200-minimum-absolute-difference](https://github.com/chandan91077/Qestions/tree/master/1200-minimum-absolute-difference) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/chandan91077/Qestions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2965-find-missing-and-repeated-values](https://github.com/chandan91077/Qestions/tree/master/2965-find-missing-and-repeated-values) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/chandan91077/Qestions/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/chandan91077/Qestions/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/chandan91077/Qestions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/chandan91077/Qestions/tree/master/0912-sort-an-array) |
+| [1200-minimum-absolute-difference](https://github.com/chandan91077/Qestions/tree/master/1200-minimum-absolute-difference) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/chandan91077/Qestions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Database
 |  |
