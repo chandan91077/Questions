@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/chandan91077/Qestions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/chandan91077/Qestions/tree/master/0031-next-permutation) |
 | [0118-pascals-triangle](https://github.com/chandan91077/Qestions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/chandan91077/Qestions/tree/master/0119-pascals-triangle-ii) |
 | [0204-count-primes](https://github.com/chandan91077/Qestions/tree/master/0204-count-primes) |
 | [0239-sliding-window-maximum](https://github.com/chandan91077/Qestions/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/chandan91077/Qestions/tree/master/0287-find-the-duplicate-number) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/chandan91077/Qestions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/chandan91077/Qestions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/chandan91077/Qestions/tree/master/0119-pascals-triangle-ii) |
 | [0509-fibonacci-number](https://github.com/chandan91077/Qestions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
