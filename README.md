@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chandan91077/Qestions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0146-lru-cache](https://github.com/chandan91077/Qestions/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/chandan91077/Qestions/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/chandan91077/Qestions/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chandan91077/Qestions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -218,4 +219,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/chandan91077/Qestions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/chandan91077/Qestions/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/chandan91077/Qestions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/chandan91077/Qestions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
