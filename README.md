@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/chandan91077/Qestions/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/chandan91077/Qestions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/chandan91077/Qestions/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/chandan91077/Qestions/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/chandan91077/Qestions/tree/master/0905-sort-array-by-parity) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/chandan91077/Qestions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/chandan91077/Qestions/tree/master/0146-lru-cache) |
+| [0876-middle-of-the-linked-list](https://github.com/chandan91077/Qestions/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
