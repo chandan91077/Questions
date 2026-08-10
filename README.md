@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/chandan91077/Qestions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/chandan91077/Qestions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/chandan91077/Qestions/tree/master/0206-reverse-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/chandan91077/Qestions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/chandan91077/Qestions/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/chandan91077/Qestions/tree/master/0146-lru-cache) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/chandan91077/Qestions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/chandan91077/Qestions/tree/master/0101-symmetric-tree) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/chandan91077/Qestions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/chandan91077/Qestions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Breadth-First Search
 |  |
