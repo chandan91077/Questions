@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/chandan91077/Qestions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chandan91077/Qestions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/chandan91077/Qestions/tree/master/0031-next-permutation) |
+| [0084-largest-rectangle-in-histogram](https://github.com/chandan91077/Qestions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/chandan91077/Qestions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/chandan91077/Qestions/tree/master/0119-pascals-triangle-ii) |
 | [0189-rotate-array](https://github.com/chandan91077/Qestions/tree/master/0189-rotate-array) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/chandan91077/Qestions/tree/master/0084-largest-rectangle-in-histogram) |
 | [1544-make-the-string-great](https://github.com/chandan91077/Qestions/tree/master/1544-make-the-string-great) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/chandan91077/Qestions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -278,4 +280,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/chandan91077/Qestions/tree/master/0142-linked-list-cycle-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/chandan91077/Qestions/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/chandan91077/Qestions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
