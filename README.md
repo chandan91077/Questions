@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chandan91077/Qestions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/chandan91077/Qestions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/chandan91077/Qestions/tree/master/0567-permutation-in-string) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/chandan91077/Qestions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2965-find-missing-and-repeated-values](https://github.com/chandan91077/Qestions/tree/master/2965-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/chandan91077/Qestions/tree/master/1544-make-the-string-great) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/chandan91077/Qestions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/chandan91077/Qestions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/chandan91077/Qestions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/chandan91077/Qestions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/chandan91077/Qestions/tree/master/2264-largest-3-same-digit-number-in-string) |
 ## Sorting
