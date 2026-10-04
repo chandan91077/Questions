@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/chandan91077/Qestions/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/chandan91077/Qestions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/chandan91077/Qestions/tree/master/0912-sort-an-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/chandan91077/Qestions/tree/master/1004-max-consecutive-ones-iii) |
 | [1200-minimum-absolute-difference](https://github.com/chandan91077/Qestions/tree/master/1200-minimum-absolute-difference) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/chandan91077/Qestions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/chandan91077/Qestions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/chandan91077/Qestions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/chandan91077/Qestions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/chandan91077/Qestions/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/chandan91077/Qestions/tree/master/1004-max-consecutive-ones-iii) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/chandan91077/Qestions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/chandan91077/Qestions/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/chandan91077/Qestions/tree/master/1004-max-consecutive-ones-iii) |
 ## String
 |  |
 | ------- |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/chandan91077/Qestions/tree/master/0187-repeated-dna-sequences) |
 | [0239-sliding-window-maximum](https://github.com/chandan91077/Qestions/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/chandan91077/Qestions/tree/master/0567-permutation-in-string) |
+| [1004-max-consecutive-ones-iii](https://github.com/chandan91077/Qestions/tree/master/1004-max-consecutive-ones-iii) |
 ## Queue
 |  |
 | ------- |
