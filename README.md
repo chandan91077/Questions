@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/chandan91077/Qestions/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/chandan91077/Qestions/tree/master/1004-max-consecutive-ones-iii) |
 | [1200-minimum-absolute-difference](https://github.com/chandan91077/Qestions/tree/master/1200-minimum-absolute-difference) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/chandan91077/Qestions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/chandan91077/Qestions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/chandan91077/Qestions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2965-find-missing-and-repeated-values](https://github.com/chandan91077/Qestions/tree/master/2965-find-missing-and-repeated-values) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/chandan91077/Qestions/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/chandan91077/Qestions/tree/master/0509-fibonacci-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/chandan91077/Qestions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/chandan91077/Qestions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/chandan91077/Qestions/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/chandan91077/Qestions/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/chandan91077/Qestions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -328,4 +331,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/chandan91077/Qestions/tree/master/0187-repeated-dna-sequences) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/chandan91077/Qestions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/chandan91077/Qestions/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
