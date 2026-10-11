@@ -5,13 +5,13 @@ class Solution {
         for(int i=0;i<nums.length;i++){
             min=Math.min(min,nums[i]);
             max=Math.max(max,nums[i]);
+
         }
-        return gcd(min,max);
-    }
-    public int gcd(int min,int max){
-        if(max==0){
-            return min;
+        while(max%min!=0){
+            int rem=max%min;
+            max=min;
+            min=rem;
         }
-        return gcd(max,min%max);
+        return min;
     }
 }
